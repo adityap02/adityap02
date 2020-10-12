@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi There 👋 I'm Aditya Porwal 🙋‍♂️
 
-<!--
-**adityap02/adityap02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :trophy: :trophy: Proud Winner of Smart India Hackathon - Two Times in a Row (2019 & 2020).
+- 🎓 21 year old Computer Engineering Student.
+- 💻 #SelfTaught Developer.
+- Worked on Python | PHP | JS | Andoird | Flutter . 
+- 🌱 I’m currently learning Django .
+- 🌐 Always Exploring New technologies.
+- Loves 🎵.
+- Proud 🇮🇳.
+- 📫 How to reach me: :mailbox: [Mail](mailto:aditya.porwal22@gmail.com) || [Linkedin](https://www.linkedin.com/in/aditya-porwal-9ab042119/)
+- ⚡  Fun fact: I spend almost 8 hours listening songs everyday.
